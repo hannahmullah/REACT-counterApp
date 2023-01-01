@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-counterApp/static/css/main.5b8a09bf.css",
+    "main.js": "/React-counterApp/static/js/main.933cb56c.js",
+    "static/media/ellipse.svg": "/React-counterApp/static/media/ellipse.5c3c9e3d4e4bd0e080d9.svg",
+    "index.html": "/React-counterApp/index.html",
+    "static/media/refresh.svg": "/React-counterApp/static/media/refresh.b6e7f945ca04a76cb4120c9932bfcf39.svg",
+    "main.5b8a09bf.css.map": "/React-counterApp/static/css/main.5b8a09bf.css.map",
+    "main.933cb56c.js.map": "/React-counterApp/static/js/main.933cb56c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8a09bf.css",
+    "static/js/main.933cb56c.js"
+  ]
+}
